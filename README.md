@@ -1,1 +1,1 @@
-cecilie sier: logo og navbar må være mer consistent. alt må være mer consistent. kanskje ta alle overskrifter i caps. semilbold for undertitteler. overskriftene for siden må være samme sted. må ha lik mellomromm ved bilder o tekst.
+husk å legge til les mer funksjon til innlegg.
